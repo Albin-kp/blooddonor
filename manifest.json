@@ -1,6 +1,6 @@
 {
-    "name": "blood_donor_app",
-    "short_name": "blood_donor_app",
+    "name": "BloodDirectory",
+    "short_name": "BloodDirectory",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
